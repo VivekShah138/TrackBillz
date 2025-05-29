@@ -104,3 +104,6 @@ hilt = { id = "com.google.dagger.hilt.android", version.ref = "hiltAndroid" }
 #Room
 google-devtools-ksp = {id = "com.google.devtools.ksp", version.ref = "kspVersion"}
 
+#Serializable
+kotlin-serialization = { id = "org.jetbrains.kotlin.plugin.serialization", version.ref = "kotlin" }
+
